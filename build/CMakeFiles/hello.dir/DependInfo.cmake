@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/noemi/programs/c-c++/cmake_tutorial/main.cpp" "CMakeFiles/hello.dir/main.cpp.o" "gcc" "CMakeFiles/hello.dir/main.cpp.o.d"
+  "/home/noemi/programs/c-c++/cmake_tutorial/src/main.cpp" "CMakeFiles/hello.dir/src/main.cpp.o" "gcc" "CMakeFiles/hello.dir/src/main.cpp.o.d"
   "/home/noemi/programs/c-c++/cmake_tutorial/src/vec.cpp" "CMakeFiles/hello.dir/src/vec.cpp.o" "gcc" "CMakeFiles/hello.dir/src/vec.cpp.o.d"
   )
 

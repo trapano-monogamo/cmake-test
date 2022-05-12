@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/noemi/programs/c-c++/cmake_tutorial/include
+CXX_INCLUDES = -I/home/noemi/programs/c-c++/cmake_tutorial/include/vec.hpp
 
 CXX_FLAGS = -std=gnu++17
 
