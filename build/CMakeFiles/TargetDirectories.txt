@@ -1,0 +1,3 @@
+/home/noemi/programs/c-c++/cmake_tutorial/build/CMakeFiles/hello.dir
+/home/noemi/programs/c-c++/cmake_tutorial/build/CMakeFiles/edit_cache.dir
+/home/noemi/programs/c-c++/cmake_tutorial/build/CMakeFiles/rebuild_cache.dir
